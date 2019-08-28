@@ -1,0 +1,7 @@
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\obj\Debug\TheAlphabetProblem.csprojAssemblyReference.cache
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\obj\Debug\TheAlphabetProblem.csproj.CoreCompileInputs.cache
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\bin\Debug\TheAlphabetProblem.dll.config
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\bin\Debug\TheAlphabetProblem.dll
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\bin\Debug\TheAlphabetProblem.pdb
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\obj\Debug\TheAlphabetProblem.dll
+C:\Projekter\CSRepositories\DailyProgrammerChallenges\TheAlphabetProblem\obj\Debug\TheAlphabetProblem.pdb
